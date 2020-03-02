@@ -8,7 +8,7 @@
 #  - XX Private Subnets
 #  - XX NAT Gateways in Public Subnets to give access to Internet from Private Subnets
 #
-# Made by Denis Astahov. Summer 2019
+# Made by Mykhailo Kolodii. Summer 2019
 #----------------------------------------------------------
 
 #==============================================================
